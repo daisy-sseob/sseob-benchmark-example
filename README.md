@@ -1,1 +1,1 @@
-# JMH benchmark exmaple repository
+# JMH benchmark exmaple repository.
